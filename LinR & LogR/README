@@ -1,0 +1,7 @@
+###lin.rb and lintr.rb are for q13~q15
+lin.rb -> q13
+lintr.rb -> q14 and q15
+
+###logr.rb and logrSGD are for q18~q20
+logr.rb -> q18 and q19
+logrSGD -> q20

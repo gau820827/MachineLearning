@@ -1,0 +1,12 @@
+###PLA.rb is for q15
+
+###PLAr.rb is for q16 and q17
+I add two parameters "tau" and "count". 
+Simply change them when doing q16 and q17.
+
+###pocket.rb is for q19
+
+###pocket_best.rb is for q18 and q20
+Edit variable "update" in line 69 to change number of updating.
+
+###All written in Ruby 2.1
